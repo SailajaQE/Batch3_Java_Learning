@@ -1,0 +1,5 @@
+Test Case  1 is failed : / by zero
+Test Case  2 is failed : null
+Test Case  3 is failed : String index out of range: 24
+Test Case  4 is failed : 20
+Test case  5  is Passed
