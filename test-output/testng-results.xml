@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke Test Suite" duration-ms="218" started-at="2022-03-17T20:59:16Z" finished-at="2022-03-17T20:59:16Z">
+    <groups>
+    </groups>
+    <test name="Unit Testing" duration-ms="218" started-at="2022-03-17T20:59:16Z" finished-at="2022-03-17T20:59:16Z">
+      <class name="HealthCheckAPI">
+        <test-method status="PASS" signature="insertRecord()[pri:0, instance:HealthCheckAPI@281e3708]" name="insertRecord" duration-ms="88" started-at="2022-03-17T15:59:16Z" finished-at="2022-03-17T15:59:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insertRecord -->
+        <test-method status="PASS" signature="updateRecord()[pri:0, instance:HealthCheckAPI@281e3708]" name="updateRecord" duration-ms="3" started-at="2022-03-17T15:59:16Z" finished-at="2022-03-17T15:59:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateRecord -->
+        <test-method status="PASS" signature="deleteRecord()[pri:0, instance:HealthCheckAPI@281e3708]" name="deleteRecord" duration-ms="1" started-at="2022-03-17T15:59:16Z" finished-at="2022-03-17T15:59:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRecord -->
+        <test-method status="PASS" signature="selectRecord()[pri:0, instance:HealthCheckAPI@281e3708]" name="selectRecord" duration-ms="3" started-at="2022-03-17T15:59:16Z" finished-at="2022-03-17T15:59:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectRecord -->
+        <test-method status="PASS" signature="applyLeave()[pri:0, instance:HealthCheckAPI@281e3708]" name="applyLeave" duration-ms="2" started-at="2022-03-17T15:59:16Z" finished-at="2022-03-17T15:59:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyLeave -->
+      </class> <!-- HealthCheckAPI -->
+    </test> <!-- Unit Testing -->
+  </suite> <!-- Smoke Test Suite -->
+</testng-results>

@@ -1,0 +1,272 @@
+class Sprint3.BaseMethods
+class Sprint3.Employee
+java.sql.SQLIntegrityConstraintViolationException: Column 'dob' cannot be null
+
+class Sprint3.BaseMethods
+class Sprint3.Employee
+java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dec 24 07:47:15 CST 1980,'Female','Married',Mon Dec 23 22:48:43 CST 1974,'Direct' at line 1
+
+class Sprint3.BaseMethods
+class Sprint3.Employee
+java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '52' for key 'emp_data.PRIMARY'
+
+class Sprint3.BaseMethods
+class Sprint3.Employee
+java.lang.NullPointerException
+
+class Sprint3.BaseMethods
+class Sprint3.Employee
+java.lang.NullPointerException
+
+class Sprint3.BaseMethods
+class Sprint3.Employee
+java.lang.NullPointerException
+
+class Sprint3.BaseMethods
+class Sprint3.Employee
+java.lang.NullPointerException
+
+class Sprint3.BaseMethods
+class Sprint3.Employee
+java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Bolic','Viva project','Dynamic Legal Agent',4588.4058,1376.5217400000001,5964.92' at line 1
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Statement.executeUpdate() or Statement.executeLargeUpdate() cannot issue statements that produce result sets.
+
+class Sprint3.BaseMethods
+class Sprint3.Employee
+java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Drill','Span project','Central Marketing Coordinator',3791.9233,1137.57699,4929.' at line 1
+
+class Sprint3.BaseMethods
+class Sprint3.Employee
+java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Moaney','Stringtough project','Full Time',4917.1628,1475.14884,6392.31164,535.50' at line 1
+
+class Sprint3.BaseMethods
+class java.sql.SQLSyntaxErrorException
+java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '26 where emp_id=26' at line 1
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Statement.executeQuery() cannot issue statements that do not produce result sets.
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Statement.executeQuery() cannot issue statements that do not produce result sets.
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Statement.executeQuery() cannot issue statements that do not produce result sets.
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Statement.executeQuery() cannot issue statements that do not produce result sets.
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Statement.executeQuery() cannot issue statements that do not produce result sets.
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Statement.executeQuery() cannot issue statements that do not produce result sets.
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Before start of result set
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Before start of result set
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Before start of result set
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.BaseMethods
+class Sprint3.Employee
+java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Connell','Mon Mar 28 18:20:40 CST 1977','Female','Married','Sun Jun 09 23:23:48 ' at line 1
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.EmployeeLeaves
+class java.lang.NullPointerException
+java.lang.NullPointerException
+
+class Sprint3.EmployeeLeaves
+class java.lang.NullPointerException
+java.lang.NullPointerException
+
+class Sprint3.BaseMethods
+class Sprint3.Employee
+java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Alive','Cardguard project','Full Time',4032.9138,1209.87414,5242.78794,889.9,'48' at line 1
+
+class Sprint3.EmployeeLeaves
+class java.lang.NullPointerException
+java.lang.NullPointerException
+
+class Sprint3.EmployeeLeaves
+class java.lang.NullPointerException
+java.lang.NullPointerException
+
+class Sprint3.EmployeeLeaves
+class java.lang.NullPointerException
+java.lang.NullPointerException
+
+class Sprint3.EmployeeLeaves
+class java.lang.NullPointerException
+java.lang.NullPointerException
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.EmployeeLeaves
+class com.codoid.products.exception.FilloException
+com.codoid.products.exception.FilloException: Invalid Query - Update Sheet1 Set paternity_leaves = paternity_leave where emp_id=81,first_name='Susann'
+
+class Sprint3.EmployeeLeaves
+class com.codoid.products.exception.FilloException
+com.codoid.products.exception.FilloException: Invalid Query - Update Sheet1 Set paternity_leaves = 1 where emp_id=81,first_name='Susann'
+
+class Sprint3.EmployeeLeaves
+class com.codoid.products.exception.FilloException
+com.codoid.products.exception.FilloException: Invalid Query - Update Sheet1 Set paternity_leaves = 1 where emp_id=81,first_name='Susann'
+
+class Sprint3.EmployeeLeaves
+class com.codoid.products.exception.FilloException
+com.codoid.products.exception.FilloException: Invalid Query - Update Sheet1 Set paternity_leaves = 1 where emp_id=81,first_name='Susann'
+
+class Sprint3.EmployeeLeaves
+class java.lang.NumberFormatException
+java.lang.NumberFormatException: For input string: "81 "
+
+class Sprint3.EmployeeLeaves
+class java.lang.NumberFormatException
+java.lang.NumberFormatException: For input string: "81 "
+
+class Sprint3.EmployeeLeaves
+class com.codoid.products.exception.FilloException
+com.codoid.products.exception.FilloException: paternity_leaves field is not found
+
+class Sprint3.EmployeeLeaves
+class com.codoid.products.exception.FilloException
+com.codoid.products.exception.FilloException: paternity_leaves field is not found
+
+class Sprint3.EmployeeLeaves
+class com.codoid.products.exception.FilloException
+com.codoid.products.exception.FilloException: paternity_leaves field is not found
+
+class Sprint3.EmployeeLeaves
+class java.lang.NumberFormatException
+java.lang.NumberFormatException: For input string: ""
+
+class Sprint3.EmployeeLeaves
+class com.codoid.products.exception.FilloException
+com.codoid.products.exception.FilloException: No records found
+
+class Sprint3.BaseMethods
+class Sprint3.Employee
+com.codoid.products.exception.FilloException: Insert query cannot be proccesed, if File is already opened. File Path-src/main/resources/Sprint3_Leaves.xlsx
+
+class Sprint3.EmployeeLeaves
+class com.codoid.products.exception.FilloException
+com.codoid.products.exception.FilloException: Update query cannot be proccesed, if File is already opened. File Path-src/main/resources/Sprint3_Leaves.xlsx
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Statement.executeQuery() cannot issue statements that do not produce result sets.
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3.BaseMethods
+class java.sql.SQLException
+java.sql.SQLException: Operation not allowed after ResultSet closed
+
+class Sprint3TeamE.Deletion
+class java.sql.SQLException
+Operation not allowed after ResultSet closed
+
+class Sprint3TeamE.Deletion
+class java.sql.SQLException
+Operation not allowed after ResultSet closed
+
+class Sprint3TeamE.Insertion
+class java.sql.SQLIntegrityConstraintViolationException
+Duplicate entry '63' for key 'emp_data.PRIMARY'
+
+class Sprint3TeamE.Deletion
+class java.sql.SQLException
+Operation not allowed after ResultSet closed
+
+class Sprint3TeamE.Deletion
+class java.sql.SQLException
+Operation not allowed after ResultSet closed
+
+class Sprint3TeamE.ApplyingTheLeaves
+class java.lang.NumberFormatException
+For input string: "Veterans_Day"
+
+class Sprint3TeamE.ApplyingTheLeaves
+class com.codoid.products.exception.FilloException
+Update query cannot be proccesed, if File is already opened. File Path-src/main/resources/Sprint3_Leaves.xlsx
+
+class Sprint3TeamE.ApplyingTheLeaves
+class java.lang.NumberFormatException
+For input string: "Veterans_Day"
+
+class Sprint3TeamE.Deletion
+class java.sql.SQLException
+Operation not allowed after ResultSet closed
+
+class Sprint3E.Insertion
+class java.sql.SQLSyntaxErrorException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Keefeton, AK 77086-7317','Agnustown','Arkansas','arden.stroman@yahoo.com','(709)' at line 1
+
